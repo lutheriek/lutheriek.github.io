@@ -7,8 +7,8 @@ var gasPrice = 40000000000;
 			children:Object(r.jsxs)("div",{className:"row justify-content-between mt-3",
 				children:[Object(r.jsxs)("div",{className:"col-md-12 top-holder",
 					children:[Object(r.jsx)("h1",{className:"page-title",children:"Welcome to Nerdette Club Staking Lab"}),
-					Object(r.jsx)("p",{className:"subtitle",children:"Send your Nerdettes to study and they will earn 0.5 STEM Token every 2 hours! Until they fully minted."}),
-					Object(r.jsx)("p",{className:"primary-text",children:"Stake your Nerdettes to earn STEM Token  -  Utility Token for the Nerd Head Club Metaverse - You can also mint Nerdettes with STEM Token!"})]}),
+					Object(r.jsx)("p",{className:"subtitle",children:"Send your Nerdettes to study and they will earn 0.5 UNITEST Token every 2 hours! Until they fully minted."}),
+					Object(r.jsx)("p",{className:"primary-text",children:"Stake your Nerdettes to earn UNITEST Token  -  Utility Token for the Nerd Head Club Metaverse - You can also mint Nerdettes with UNITEST Token!"})]}),
 			]})})},
 		o=n(13),p=n(11),c=n.n(p),l=n(17),y=n(109),d=n.n(y),m=n(108),b=n.n(m),f={},
 	j=[
@@ -182,12 +182,12 @@ var gasPrice = 40000000000;
 									children:[
 									// Object(r.jsx)("h5",{className:"mb-3",children:O(n)}),
 									Object(r.jsx)("h5",{className:"mb-3",children:["Your address: ",Object(r.jsx)("b",{className:"mb-3",children:O(n)}),]}),
-									Object(r.jsx)("h5",{className:"mb-3",children:["Your STEM Balance: ",Object(r.jsx)("b",{className:"mb-3",children:[(i*1).toFixed(1)," STEM"]}),]}),
+									Object(r.jsx)("h5",{className:"mb-3",children:["Your UNITEST Balance: ",Object(r.jsx)("b",{className:"mb-3",children:[(i*1).toFixed(1)," UNITEST"]}),]}),
 									Object(r.jsxs)("h5",{className:"mb-3",children:["Number of Nerdettes you stake: ", Object(r.jsxs)("b",{className:"mb-3",children:[p]}),]}),
-									Object(r.jsxs)("h5",{className:"mb-3",children:["Pending STEM Reward: ",Object(r.jsxs)("b",{className:"mb-3",children:[m.toFixed(1)]})]}),
+									Object(r.jsxs)("h5",{className:"mb-3",children:["Pending UNITEST Reward: ",Object(r.jsxs)("b",{className:"mb-3",children:[m.toFixed(1)]})]}),
 
-									Object(r.jsxs)("h5",{className:"mb-3",children:["Daily Reward: ",(f*6).toFixed(1)," STEM per Nerdette NFT"]}),
-									Object(r.jsxs)("h5",{className:"mb-3",children:["You are currently earning: ",(b*6).toFixed(1)," STEM per Day"]}),
+									Object(r.jsxs)("h5",{className:"mb-3",children:["Daily Reward: ",(f*6).toFixed(1)," UNITEST per Nerdette NFT"]}),
+									Object(r.jsxs)("h5",{className:"mb-3",children:["You are currently earning: ",(b*6).toFixed(1)," UNITEST per Day"]}),
 									Object(r.jsx)("button",{className:"box-btn my-3",onClick:function(){d()},children:"Claim Reward"}),
 									Object(r.jsx)("button",{className:"box-btn-disconnect my-3",onClick:function(){return s()},children:"Disconnect"})]}):Object(r.jsxs)(r.Fragment,{
 										children:[
