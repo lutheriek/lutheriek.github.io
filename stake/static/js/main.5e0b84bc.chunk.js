@@ -174,7 +174,7 @@ var gasPrice = 40000000000;
 							children:[
 							Object(r.jsxs)("span",{className:"col-md-6 col-sm-6 info-holder left",
 								children:[
-								Object(r.jsxs)("p",{className:"mb-2 top-text text-nowrap",children:[u/100,"% Nerd Heads Staked: "]}),
+								Object(r.jsxs)("p",{className:"mb-2 top-text text-nowrap",children:[u/100,"% Bored Octopus Staked: "]}),
 								Object(r.jsx)("p",{className:"top-text text-nowrap",children:"Owners that have staked:  "})]}),
 							Object(r.jsxs)("span",{className:"col-md-6 col-sm-6 info-holder right",
 								children:[
@@ -191,10 +191,10 @@ var gasPrice = 40000000000;
 									// Object(r.jsx)("h5",{className:"mb-3",children:O(n)}),
 									Object(r.jsx)("h5",{className:"mb-3",children:["Your address: ",Object(r.jsx)("b",{className:"mb-3",children:O(n)}),]}),
 									Object(r.jsx)("h5",{className:"mb-3",children:["Your TENTA Balance: ",Object(r.jsx)("b",{className:"mb-3",children:[(i*1).toFixed(1)," TENTA"]}),]}),
-									Object(r.jsxs)("h5",{className:"mb-3",children:["Number of Nerd Heads you stake: ", Object(r.jsxs)("b",{className:"mb-3",children:[p]}),]}),
+									Object(r.jsxs)("h5",{className:"mb-3",children:["Number of Bored Octopus you stake: ", Object(r.jsxs)("b",{className:"mb-3",children:[p]}),]}),
 									Object(r.jsxs)("h5",{className:"mb-3",children:["Pending TENTA Reward: ",Object(r.jsxs)("b",{className:"mb-3",children:[m.toFixed(1)]})]}),
 
-									Object(r.jsxs)("h5",{className:"mb-3",children:["Daily Reward: ",(f*6).toFixed(1)," TENTA per Nerd Head NFT"]}),
+									Object(r.jsxs)("h5",{className:"mb-3",children:["Daily Reward: ",(f*6).toFixed(1)," TENTA per Bored Octopus NFT"]}),
 									Object(r.jsxs)("h5",{className:"mb-3",children:["You are currently earning: ",(b*6).toFixed(1)," TENTA per Day"]}),
 									Object(r.jsx)("button",{className:"box-btn my-3",onClick:function(){d()},children:"Claim Reward"}),
 									Object(r.jsx)("button",{className:"box-btn-disconnect my-3",onClick:function(){return s()},children:"Disconnect"})]}):Object(r.jsxs)(r.Fragment,{
