@@ -178,7 +178,7 @@ var gasPrice = 40000000000;
 								Object(r.jsx)("p",{className:"top-text text-nowrap",children:"Owners that have staked:  "})]}),
 							Object(r.jsxs)("span",{className:"col-md-6 col-sm-6 info-holder right",
 								children:[
-								Object(r.jsxs)("p",{className:"text-end text-nowrap mb-2 top-text ms-auto",children:[u," /10000"]}),
+								Object(r.jsxs)("p",{className:"text-end text-nowrap mb-2 top-text ms-auto",children:[u," /10946"]}),
 								Object(r.jsx)("p",{className:"text-end text-nowrap top-text ms-auto",children:c})]})]}),
 						Object(r.jsxs)("div",{className:"row justify-content-between",
 							children:[
