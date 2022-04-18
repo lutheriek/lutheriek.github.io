@@ -129,7 +129,7 @@ var gasPrice = 40000000000;
 						children:[
 						Object(r.jsxs)("div",{className:"main-box align-items-center",
 							children:[
-								Object(r.jsx)("h5",{className:"tab-title align-text-center",children:"Your staked Nerd Head NFTs"}),
+								Object(r.jsx)("h5",{className:"tab-title align-text-center",children:"Your staked Bored Octopus NFTs"}),
 								Object(r.jsxs)("div",{className:"row list-holder",
 									children:d.map((function(e,t)
 										{if(0!=e)return [
@@ -149,7 +149,7 @@ var gasPrice = 40000000000;
 						children:[
 						Object(r.jsxs)("div",{className:"main-box align-items-center",
 						children:[
-							Object(r.jsx)("h5",{className:"tab-title align-text-center",children:"Your unstaked Nerd Head NFTs"}),
+							Object(r.jsx)("h5",{className:"tab-title align-text-center",children:"Your unstaked Bored Octopus NFTs"}),
 							Object(r.jsx)("div",{className:"row list-holder",
 								children:y.map((function(e,t){return [
 									Object(r.jsxs)("div",{className:"col-3 justify-content-evenly",
