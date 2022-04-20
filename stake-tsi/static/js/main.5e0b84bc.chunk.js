@@ -16,9 +16,9 @@ var gasPrice = 40000000000;
 		return Object(r.jsx)("div",{className:"container",
 			children:Object(r.jsxs)("div",{className:"row justify-content-between mt-3",
 				children:[Object(r.jsxs)("div",{className:"col-md-12 top-holder",
-					children:[Object(r.jsx)("h1",{className:"page-title",children:"Welcome to Bored Octopus Club Staking Lab"}),
-					Object(r.jsx)("p",{className:"subtitle",children:"Send your Bored Octopus to study and they will earn 0.1 TENTA Token every 2 hours!"}),
-					Object(r.jsx)("p",{className:"primary-text",children:"Stake your Bored Octopus to earn TENTA Token  -  Utility Token for the Bored Octopus Club - You can now mint other project with TENTA Token!"})]}),
+					children:[Object(r.jsx)("h1",{className:"page-title",children:"Welcome to The Secret Island Staking Lab"}),
+					Object(r.jsx)("p",{className:"subtitle",children:"Send your The Secret Island to study and they will earn 0.1 TENTA Token every 2 hours!"}),
+					Object(r.jsx)("p",{className:"primary-text",children:"Stake your The Secret Island to earn TENTA Token  -  Utility Token for the The Secret Island - You can now mint other project with TENTA Token!"})]}),
 			]})})},
 		o=n(13),p=n(11),c=n.n(p),l=n(17),y=n(109),d=n.n(y),m=n(108),b=n.n(m),f={},
 	j=[
@@ -129,7 +129,7 @@ var gasPrice = 40000000000;
 						children:[
 						Object(r.jsxs)("div",{className:"main-box align-items-center",
 							children:[
-								Object(r.jsx)("h5",{className:"tab-title align-text-center",children:"Your staked Bored Octopus NFTs"}),
+								Object(r.jsx)("h5",{className:"tab-title align-text-center",children:"Your staked The Secret Island NFTs"}),
 								Object(r.jsxs)("div",{className:"row list-holder",
 									children:d.map((function(e,t)
 										{if(0!=e)return [
@@ -149,7 +149,7 @@ var gasPrice = 40000000000;
 						children:[
 						Object(r.jsxs)("div",{className:"main-box align-items-center",
 						children:[
-							Object(r.jsx)("h5",{className:"tab-title align-text-center",children:"Your unstaked Bored Octopus NFTs"}),
+							Object(r.jsx)("h5",{className:"tab-title align-text-center",children:"Your unstaked The Secret Island NFTs"}),
 							Object(r.jsx)("div",{className:"row list-holder",
 								children:y.map((function(e,t){return [
 									Object(r.jsxs)("div",{className:"col-3 justify-content-evenly",
@@ -174,7 +174,7 @@ var gasPrice = 40000000000;
 							children:[
 							Object(r.jsxs)("span",{className:"col-md-6 col-sm-6 info-holder left",
 								children:[
-								Object(r.jsxs)("p",{className:"mb-2 top-text text-nowrap",children:[u/100,"% Bored Octopus Staked: "]}),
+								Object(r.jsxs)("p",{className:"mb-2 top-text text-nowrap",children:[u/100,"% The Secret Island Staked: "]}),
 								Object(r.jsx)("p",{className:"top-text text-nowrap",children:"Owners that have staked:  "})]}),
 							Object(r.jsxs)("span",{className:"col-md-6 col-sm-6 info-holder right",
 								children:[
@@ -191,10 +191,10 @@ var gasPrice = 40000000000;
 									// Object(r.jsx)("h5",{className:"mb-3",children:O(n)}),
 									Object(r.jsx)("h5",{className:"mb-3",children:["Your address: ",Object(r.jsx)("b",{className:"mb-3",children:O(n)}),]}),
 									Object(r.jsx)("h5",{className:"mb-3",children:["Your TENTA Balance: ",Object(r.jsx)("b",{className:"mb-3",children:[(i*1).toFixed(1)," TENTA"]}),]}),
-									Object(r.jsxs)("h5",{className:"mb-3",children:["Number of Bored Octopus you stake: ", Object(r.jsxs)("b",{className:"mb-3",children:[p]}),]}),
+									Object(r.jsxs)("h5",{className:"mb-3",children:["Number of The Secret Island you stake: ", Object(r.jsxs)("b",{className:"mb-3",children:[p]}),]}),
 									Object(r.jsxs)("h5",{className:"mb-3",children:["Pending TENTA Reward: ",Object(r.jsxs)("b",{className:"mb-3",children:[m.toFixed(1)]})]}),
 
-									Object(r.jsxs)("h5",{className:"mb-3",children:["Daily Reward: ",(f*6).toFixed(1)," TENTA per Bored Octopus NFT"]}),
+									Object(r.jsxs)("h5",{className:"mb-3",children:["Daily Reward: ",(f*6).toFixed(1)," TENTA per The Secret Island NFT"]}),
 									Object(r.jsxs)("h5",{className:"mb-3",children:["You are currently earning: ",(b*6).toFixed(1)," TENTA per Day"]}),
 									Object(r.jsx)("button",{className:"box-btn my-3",onClick:function(){d()},children:"Claim Reward"}),
 									Object(r.jsx)("button",{className:"box-btn-disconnect my-3",onClick:function(){return s()},children:"Disconnect"})]}):Object(r.jsxs)(r.Fragment,{
