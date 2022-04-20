@@ -204,7 +204,7 @@ var gasPrice = 40000000000;
 							Object(r.jsx)("div",{className:"col-md-6 d-none d-md-block",
 								children:Object(r.jsxs)("div",{className:"",
 									children:[
-									Object(r.jsx)("img",{src:"./assets/images/blid.png",className:"blid-image"})
+									Object(r.jsx)("img",{src:"img/pos-tsi.png",className:"blid-image"})
 									]})})
 							]}),
 						Object(r.jsxs)("div",{className:"row box-row justify-content-between my-3",
