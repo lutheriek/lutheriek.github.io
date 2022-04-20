@@ -88,7 +88,7 @@ body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","
 	.top-text{font-size:1rem}
 	.box-text{font-size:1.2rem}
 }
-.list-holder{min-height:214px;max-height:100%; width:100%; overflow-x:scroll; border: 1px solid black;}
+.list-holder{min-height:214px;max-height:100%; width:100%; overflow-x:scroll;}
 .list-holder::-webkit-scrollbar{width: 10px;}
 .list-holder::-webkit-scrollbar-corner{display: none;}
 .list-holder::-webkit-scrollbar-thumb{background: #555;border-radius: 3px;}
