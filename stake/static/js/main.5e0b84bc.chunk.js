@@ -17,7 +17,7 @@ var gasPrice = 40000000000;
 			children:Object(r.jsxs)("div",{className:"row justify-content-between mt-3",
 				children:[Object(r.jsxs)("div",{className:"col-md-12 top-holder",
 					children:[Object(r.jsx)("h1",{className:"page-title",children:"Welcome to Bored Octopus Club Staking Lab"}),
-					Object(r.jsx)("p",{className:"subtitle",children:"Send your Bored Octopus to study and they will earn 1 TENTA Token every 2 hours!"}),
+					Object(r.jsx)("p",{className:"subtitle",children:"Send your Bored Octopus to study and they will earn 3 TENTA Token every 12 hours!"}),
 					Object(r.jsx)("p",{className:"primary-text",children:"Stake your Bored Octopus to earn TENTA Token  -  Utility Token for the Bored Octopus Club - You can now mint other project with TENTA Token!"})]}),
 			]})})},
 		o=n(13),p=n(11),c=n.n(p),l=n(17),y=n(109),d=n.n(y),m=n(108),b=n.n(m),f={},
@@ -137,7 +137,7 @@ var gasPrice = 40000000000;
 										children:[
 											Object(r.jsx)("a",{href:"https://opensea.io/assets/matic/0x47ab7cd7A8df3b816F6994c4093b416c5BD881F6/"+e+"",target:"_blank",
 											children:Object(r.jsx)("img",{className:"nft-picture",src:"https://gateway.pinata.cloud/ipfs/QmZNvkQCCqDiSkvoP3vMN4U8q1qXTP9EnP2ZNs91CQ8B8m/"+e+".png"})}),
-											Object(r.jsx)("button",{className:"nft-btn ".concat(n==+e?"active":""), onClick:function(){s(e)},children:e},t)
+											Object(r.jsx)("button",{className:"nft-btn ".concat(n==+e?"active":""),onClick:function(){s(e)},children:e},t)
 										]}),
 										]}))}),
 								Object(r.jsxs)("div",{className:"",
@@ -156,7 +156,7 @@ var gasPrice = 40000000000;
 										children:[
 											Object(r.jsx)("a",{href:"https://opensea.io/assets/matic/0x47ab7cd7A8df3b816F6994c4093b416c5BD881F6/"+e+"",target:"_blank",
 											children:Object(r.jsx)("img",{className:"nft-picture",src:"https://gateway.pinata.cloud/ipfs/QmZNvkQCCqDiSkvoP3vMN4U8q1qXTP9EnP2ZNs91CQ8B8m/"+e+".png"})}),
-											Object(r.jsx)("button",{className:"nft-btn ".concat(p==+e?"active":""), onClick:function(){c(e)},children:e},t)
+											Object(r.jsx)("button",{className:"nft-btn ".concat(p==+e?"active":""),onClick:function(){c(e)},children:e},t)
 											]})
 										]}))}),
 							Object(r.jsxs)("div",{className:"",
