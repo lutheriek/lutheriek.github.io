@@ -150,7 +150,7 @@ var gasPrice = 40000000000;
 						Object(r.jsxs)("div",{className:"main-box align-items-center",
 						children:[
 							Object(r.jsx)("h5",{className:"tab-title align-text-center",children:"Your unstaked Bored Octopus NFTs"}),
-							Object(r.jsx)("div",{className:"row list-holder" .multiselect,
+							Object(r.jsx)("div",{className:"row list-holder",
 								children:y.map((function(e,t){return [
 									Object(r.jsxs)("div",{className:"col-3 justify-content-evenly",
 										children:[
