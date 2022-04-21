@@ -150,13 +150,13 @@ var gasPrice = 40000000000;
 						Object(r.jsxs)("div",{className:"main-box align-items-center",
 						children:[
 							Object(r.jsx)("h5",{className:"tab-title align-text-center",children:"Your unstaked Bored Octopus NFTs"}),
-							Object(r.jsx)("div",{className:"row list-holder",
+							Object(r.jsx)("div",{className:"row list-holder" .multiselect,
 								children:y.map((function(e,t){return [
 									Object(r.jsxs)("div",{className:"col-3 justify-content-evenly",
 										children:[
 											Object(r.jsx)("a",{href:"https://opensea.io/assets/matic/0x47ab7cd7A8df3b816F6994c4093b416c5BD881F6/"+e+"",target:"_blank",
 											children:Object(r.jsx)("img",{className:"nft-picture",src:"https://gateway.pinata.cloud/ipfs/QmZNvkQCCqDiSkvoP3vMN4U8q1qXTP9EnP2ZNs91CQ8B8m/"+e+".png"})}),
-											Object(r.jsx)("button",{className:"nft-btn ".concat(p==+e?"active":""), Multiselect:function(){c(e)},children:e},t)
+											Object(r.jsx)("button",{className:"nft-btn ".concat(p==+e?"active":""), onClick:function(){c(e)},children:e},t)
 											]})
 										]}))}),
 							Object(r.jsxs)("div",{className:"",
