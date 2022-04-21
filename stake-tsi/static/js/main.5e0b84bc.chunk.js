@@ -137,7 +137,7 @@ var gasPrice = 40000000000;
 										children:[
 											Object(r.jsx)("a",{href:"https://gateway.pinata.cloud/ipfs/Qmae5q8i97HUX1SfeysPz4NbL9QnX6aTrP5EZ7CQupaqK6"+e+"",target:"_blank",
 											children:Object(r.jsx)("img",{className:"nft-picture",src:"https://gateway.pinata.cloud/ipfs/QmNs3tmky5d3g6jgx6TtygJU9rJHrCNkRXUUkU8uvLQg9F/"+e+".png"})}),
-											Object(r.jsx)("button" ,{className:"nft-btn ".concat(n==+e?"active":"selected"),onClick:function(){s(e)},children:e},t)
+											Object(r.jsx)("button" ,{className:"nft-btn ".concat(n==+e?"active":""),onClick:function(){$(this).addClass('active');}{s(e)},children:e},t)
 										]}),
 										]}))}),
 								Object(r.jsxs)("div",{className:"",
@@ -156,7 +156,7 @@ var gasPrice = 40000000000;
 										children:[
 											Object(r.jsx)("a",{href:"https://opensea.io/assets/matic/0x2517687804418207eafb4755a911bfba978824c6/"+e+"",target:"_blank",
 											children:Object(r.jsx)("img",{className:"nft-picture",src:"https://gateway.pinata.cloud/ipfs/QmNs3tmky5d3g6jgx6TtygJU9rJHrCNkRXUUkU8uvLQg9F/"+e+".png"})}),
-											Object(r.jsx)("button" ,{className:"nft-btn ".concat(p==+e?"active":"selected"),onClick:function(){c(e)},children:e},t)
+											Object(r.jsx)("button" ,{className:"nft-btn ".concat(p==+e?"active":""),onClick:function(){$(this).addClass('active');}{c(e)},children:e},t)
 											]})
 										]}))}),
 							Object(r.jsxs)("div",{className:"",
